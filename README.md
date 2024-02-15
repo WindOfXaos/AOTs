@@ -1,2 +1,0 @@
-# AOTs
-Unity WebGL Game
