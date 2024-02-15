@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d0e78334bbb52e408f94e6c6b9962e4, type: 3}
+  m_Name: '#9'
+  m_EditorClassIdentifier: 
+  storytext: "You see a squad engaging with horrifying giant creatures\nwhile another
+    is evacuating the citizens like a sci-fi movie.\nYou flashback to a memory of
+    you\nsitting at your favorite pub after destroying a \nreasonable amount of your
+    brain cells.\nSuddenly, a guy sitting next to you starts yelling,\n\"The world
+    is full of dumb humans! Who needs more stupid giant human-like creatures anyways!\".\nYou
+    reply with what is left of your perception,\n\"What about playing a Giants football
+    game!\".\n\nYou reach the squad and succeed in helping them clear the\nhorde
+    miraculously. You tell them you possess valuable intel and should report to the\ngeneral
+    headquarters.\n\n1. Continue..."
+  NextStates:
+  - {fileID: 11400000, guid: 24c24180e56c87b469647311958c2acc, type: 2}

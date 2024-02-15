@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d0e78334bbb52e408f94e6c6b9962e4, type: 3}
+  m_Name: '#2'
+  m_EditorClassIdentifier: 
+  storytext: 'Enormous body, huge feet, bloody hands lifting
+
+    one of your comrades,
+    chewed like gum. You
+
+    couldn''t look away or move with your frozen
+
+    body.
+
+
+    1.
+    Continue...'
+  NextStates:
+  - {fileID: 11400000, guid: ed691c0048ba2a8499dd44e4d3ac3349, type: 2}

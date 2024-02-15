@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d0e78334bbb52e408f94e6c6b9962e4, type: 3}
+  m_Name: '#8'
+  m_EditorClassIdentifier: 
+  storytext: 'You find a small hole that can barely fit your body, you
+
+    slide
+    outside through it.
+
+    "How everything got wiped in the blink of an eye?! I''m
+
+    afraid
+    the rumors are true!" the officer wonders after
+
+    seeing the whole city destroyed.
+
+
+    1.
+    Try to have a higher ground to take a better look.
+
+    2. Use your phone to
+    absorb the situation through the internet.'
+  NextStates:
+  - {fileID: 11400000, guid: a67994ee1a0b963459f8cb7822201fe6, type: 2}
+  - {fileID: 11400000, guid: f3e68f2c6bb479848bcfd869878858f6, type: 2}
